@@ -22,4 +22,4 @@ The interface includes:
 1. 📥 Clone the repo  
    ```bash
    git@github.com:varshavikraman/YouTube-Home-Page.git 
-2. Open `index.html` in your browser
+2. Open `youtube.html` in your browser
