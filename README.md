@@ -26,4 +26,5 @@ The interface includes:
 
 ## 📸 Screenshot 
 
-![Screenshot](Screenshots/screenshot-desktop.png)
+![Screenshot](Screenshot/screenshot-desktop.png)
+
