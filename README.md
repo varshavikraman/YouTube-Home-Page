@@ -21,5 +21,5 @@ The interface includes:
 ## ⚡ How to run  
 1. 📥 Clone the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo.git 
+   git@github.com:varshavikraman/YouTube-Home-Page.git 
 2. Open `index.html` in your browser
