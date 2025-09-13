@@ -23,3 +23,7 @@ The interface includes:
    ```bash
    git@github.com:varshavikraman/YouTube-Home-Page.git 
 2. Open `youtube.html` in your browser
+
+## 📸 Screenshot 
+
+![Screenshot](Screenshots/Screenshot%20from%202025-09-13%2009-24-22.png)
