@@ -1,7 +1,7 @@
 ## 🎥 YouTube Home Page Clone — HTML + Tailwind
 
 ## 📖 Description   
-A responsive **front-end clone** of the YouTube home page built with **HTML5** and **Tailwind CSS**.  
+A **front-end clone** of the YouTube home page built with **HTML5** and **Tailwind CSS**.  
 The interface includes:  
 ✨ Top search bar  
 📺 Left-side navigation  
