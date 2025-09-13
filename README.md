@@ -26,4 +26,4 @@ The interface includes:
 
 ## 📸 Screenshot 
 
-![Screenshot](Screenshots/Screenshot%20from%202025-09-13%2009-24-22.png)
+![Screenshot](Screenshots/screenshot-desktop.png)
